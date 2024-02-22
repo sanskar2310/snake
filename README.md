@@ -1,4 +1,4 @@
-# Snake Chasing Gmae
+# Snake Chasing Game
 
 Snake Chasing Game
 Welcome to Snake Chasing Game! This is a classic game where players control a snake and try to eat food to grow longer while avoiding collisions with the walls or their own tail.
